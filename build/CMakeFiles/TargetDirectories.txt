@@ -1,0 +1,6 @@
+/home/ankit/git/interview_sub/build/CMakeFiles/rebuild_cache.dir
+/home/ankit/git/interview_sub/build/CMakeFiles/edit_cache.dir
+/home/ankit/git/interview_sub/build/CMakeFiles/demo.dir
+/home/ankit/git/interview_sub/build/CMakeFiles/imgedit.dir
+/home/ankit/git/interview_sub/build/CMakeFiles/utils.dir
+/home/ankit/git/interview_sub/build/CMakeFiles/Specs.dir

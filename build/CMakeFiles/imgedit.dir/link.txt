@@ -1,0 +1,2 @@
+/usr/bin/ar qc libimgedit.a  CMakeFiles/imgedit.dir/src/imageEditing.cpp.o
+/usr/bin/ranlib libimgedit.a

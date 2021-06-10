@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSpecs.a  CMakeFiles/Specs.dir/src/Specs.cpp.o
+/usr/bin/ranlib libSpecs.a
